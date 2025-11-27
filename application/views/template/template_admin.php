@@ -222,13 +222,6 @@
 		?>
       </div><!-- /.content-wrapper -->
 
-      <footer class="main-footer">
-        <div class="pull-right hidden-xs">
-          <b>Version</b> <?php if(!empty($site_version)){ echo $site_version; } ?>
-        </div>
-        <strong>&copy; 2024 achmadlutfi.wordpress.com</strong>
-      </footer>
-
     </div><!-- ./wrapper -->
 	
 	<div class="modal" id="modal-password" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true">

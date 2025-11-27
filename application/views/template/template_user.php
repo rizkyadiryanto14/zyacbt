@@ -85,8 +85,8 @@
 			?>
         </div>
         <div class="container">
-          <strong>&copy; 2024 achmadlutfi.wordpress.com</strong>
-        </div><!-- /.container -->
+        </div>
+          <!-- /.container -->
       </footer>
     </div><!-- ./wrapper -->
 
